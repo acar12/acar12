@@ -1,5 +1,19 @@
 ### Hi there 👋
-
+What I know:
+- Python
+  - Django
+  - Pygame
+  - PyQt
+- Java
+  - Sockets
+  - Processing 
+- Javascript
+  - ProcessingJS
+  - p5.js
+  - DOM
+- Data Structures
+  - Node
+  - LinkedList
 <!--
 **AyushSharma255/AyushSharma255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

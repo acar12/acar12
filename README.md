@@ -5,15 +5,19 @@ What I know:
   - Pygame
   - PyQt
 - Java
-  - Sockets
-  - Processing 
 - Javascript
   - ProcessingJS
   - p5.js
   - DOM
 - Data Structures
   - Node
-  - LinkedList
+  - Linked List
+    - Doubly Linked List
+  - Stack 
+  - Queue
+- Algorithms
+  - Recursion
+  
 <!--
 **AyushSharma255/AyushSharma255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,6 +5,7 @@ What I know:
   - Pygame
   - PyQt
 - Java
+  - JavaFX
 - Javascript
   - ProcessingJS
   - p5.js

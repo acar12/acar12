@@ -16,8 +16,11 @@ What I know:
     - Doubly Linked List
   - Stack 
   - Queue
+    - Priority Queue
+  - Binary Tree
 - Algorithms
   - Recursion
+  - Hashing
   
 <!--
 **AyushSharma255/AyushSharma255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

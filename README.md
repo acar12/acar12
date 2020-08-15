@@ -3,6 +3,7 @@ What I know:
 - Python
   - Django
   - Pygame
+  - TKinter
   - PyQt
 - Java
   - JavaFX
@@ -18,6 +19,8 @@ What I know:
   - Queue
     - Priority Queue
   - Binary Tree
+    - Binary Search Tree
+  - Hash Tables
 - Algorithms
   - Recursion
   - Hashing

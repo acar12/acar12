@@ -12,6 +12,8 @@ What I know:
   - p5.js
   - DOM
 - Data Structures
+  - Array
+    - Multi-dimensional arrays
   - Node
   - Linked List
     - Doubly Linked List
@@ -21,9 +23,13 @@ What I know:
   - Binary Tree
     - Binary Search Tree
   - Hash Tables
+    - Chaining
+    - Open Addressing
 - Algorithms
   - Recursion
   - Hashing
+  - Sorting
+    - Bubble Sort
   
 <!--
 **AyushSharma255/AyushSharma255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

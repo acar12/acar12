@@ -30,6 +30,8 @@ What I know:
   - Hashing
   - Sorting
     - Bubble Sort
+    - Selection Sort
+    - Insertion Sort
   
 <!--
 **AyushSharma255/AyushSharma255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

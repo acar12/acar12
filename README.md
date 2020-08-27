@@ -17,6 +17,7 @@ What I know:
   - Node
   - Linked List
     - Doubly Linked List
+    - Circular Linked List 
   - Stack 
   - Queue
     - Priority Queue

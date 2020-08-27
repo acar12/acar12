@@ -23,6 +23,7 @@ What I know:
     - Priority Queue
   - Binary Tree
     - Binary Search Tree
+  - AVL Tree
   - Hash Tables
     - Chaining
     - Open Addressing
